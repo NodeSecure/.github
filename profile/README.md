@@ -1,6 +1,6 @@
 ## 👋 Welcome visitor
 
-We are building free open source tools to securize the **Node.js** & **JavaScript** ecosystem. Our biggest area of expertise is in **package and code analysis**.
+We are building free open source tools to secure the **Node.js** & **JavaScript** ecosystem. Our biggest area of expertise is in **package and code analysis**.
 
 We are mainly developers who like to build tools that bring you value for free ❤️. Our tools often provide a range of benefits and information such as:
 - Non opinionated metrics (On quality and maintainability).
