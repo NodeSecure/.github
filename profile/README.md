@@ -19,7 +19,9 @@ We frequently write articles about our different tools on [dev.to](https://dev.t
 | [![New back-end](https://latest-devto-post.vercel.app/api?username=fraxken&slug=announcing-new-node-secure-back-end-1dp9)](https://dev.to/fraxken/announcing-new-node-secure-back-end-1dp9) | [![The future](https://latest-devto-post.vercel.app/api?username=fraxken&slug=nodesecure-the-future-1f9c)](https://dev.to/fraxken/nodesecure-the-future-1f9c) | [![JS-X-Ray3](https://latest-devto-post.vercel.app/api?username=fraxken&slug=js-x-ray-3-0-0-3ddn)](https://dev.to/fraxken/js-x-ray-3-0-0-3ddn)
 
 ### ❤️ Contributors
-We welcome new contributors. Please feel free to contact us (`fraxken#8064` on [discord](https://discord.com/)) and help on the different projects.
+We welcome new contributors. Please feel free to join us on Discord and help on the different projects.
+
+[![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
 It doesn't necessarily matter if you are a beginner in security or not. Many projects require skills that are not directly related to security. So don't feel illegitimate to come and contribute and learn.
 
