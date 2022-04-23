@@ -25,4 +25,8 @@ We welcome new contributors. Please feel free to join us on Discord and help on 
 
 It doesn't necessarily matter if you are a beginner in security or not. Many projects require skills that are not directly related to security. So don't feel illegitimate to come and contribute and learn.
 
-> Note: We are looking for people to help us with UI/UX design.
+#### 🐤 How to
+
+Learn how you can contribute by reading our guide:
+- [For french contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-fr.md)
+- For english contributor (**coming soon**).
