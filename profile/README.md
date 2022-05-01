@@ -29,4 +29,4 @@ It doesn't necessarily matter if you are a beginner in security or not. Many pro
 
 Learn how you can contribute by reading our guide:
 - [For french contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-fr.md)
-- For english contributor (**coming soon**).
+- [For english contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-en.md)
