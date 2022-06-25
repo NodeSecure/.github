@@ -9,7 +9,9 @@ We are mainly developers who like to build tools that bring you value for free �
 
 Our tools have proven to be of great use to rigorous developers and package maintainers. But there is still a long way to go to make our tools more accessible to beginners 💪.
 
-![](https://camo.githubusercontent.com/5d7138dab440b50d52f3889605d547b5d655988965b6b442dc28abb8d9c1481c/68747470733a2f2f692e696d6775722e636f6d2f33786e5447426c2e706e67)
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxkBbhI2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zxtg6o2v2ahmpsjfhs71.PNG">
+</p>
 
 ### 📝 Articles
 We frequently write articles about our different tools on [dev.to](https://dev.to/).
@@ -25,7 +27,7 @@ We welcome new contributors. Please feel free to join us on Discord and help on 
 
 It doesn't necessarily matter if you are a beginner in security or not. Many projects require skills that are not directly related to security. So don't feel illegitimate to come and contribute and learn.
 
-#### 🐤 How to
+### 🐤 How to contribute
 
 Learn how you can contribute by reading our guide:
 - [For french contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-fr.md)
