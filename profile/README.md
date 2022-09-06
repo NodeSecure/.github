@@ -14,11 +14,7 @@ Our tools have proven to be of great use to rigorous developers and package main
 </p>
 
 ### 📝 Articles
-We frequently write articles about our different tools on [dev.to](https://dev.to/).
-
-| | | |
-| --- | --- | --- |
-| [![New back-end](https://latest-devto-post.vercel.app/api?username=fraxken&slug=announcing-new-node-secure-back-end-1dp9)](https://dev.to/fraxken/announcing-new-node-secure-back-end-1dp9) | [![The future](https://latest-devto-post.vercel.app/api?username=fraxken&slug=nodesecure-the-future-1f9c)](https://dev.to/fraxken/nodesecure-the-future-1f9c) | [![JS-X-Ray3](https://latest-devto-post.vercel.app/api?username=fraxken&slug=js-x-ray-3-0-0-3ddn)](https://dev.to/fraxken/js-x-ray-3-0-0-3ddn)
+We frequently write articles about our different tools on [dev.to](https://dev.to/nodesecure).
 
 ### ❤️ Contributors
 We welcome new contributors. Please feel free to join us on Discord and help on the different projects.
