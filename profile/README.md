@@ -13,7 +13,7 @@ We are mainly developers who like to build tools that bring you value for free �
 Our tools have proven to be of great use to rigorous developers and package maintainers. But there is still a long way to go to make our tools more accessible to beginners 💪.
 
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxkBbhI2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zxtg6o2v2ahmpsjfhs71.PNG">
+<img src="https://github.com/NodeSecure/cli/blob/master/docs/ui-preview.PNG">
 </p>
 
 ### ❤️ Contributors
