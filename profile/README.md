@@ -39,3 +39,7 @@ Learn how you can contribute by reading our guide:
 - [A curated list of awesome Node.js Security resources.](https://github.com/lirantal/awesome-nodejs-security)
 
 </details>
+
+#### Contribution Guidelines
+
+Before contributing, please check and read our [Code of conduct](https://github.com/NodeSecure/Governance/blob/main/COC_POLICY.md). There is some guides available to help developers and contributors:
