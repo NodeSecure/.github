@@ -19,7 +19,7 @@ Our tools have proven to be of great use to rigorous developers and package main
 ### ❤️ Contributors
 We welcome new contributors. Please feel free to join us on Discord and help on the different projects.
 
-[![ES-Community](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
+[![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
 
 It doesn't necessarily matter if you are a beginner in security or not. Many projects require skills that are not directly related to security. So **don't feel illegitimate** to come and contribute and learn.
 
