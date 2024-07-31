@@ -43,3 +43,6 @@ Learn how you can contribute by reading our guide:
 #### Contribution Guidelines
 
 Before contributing, please check and read our [Code of conduct](https://github.com/NodeSecure/Governance/blob/main/COC_POLICY.md). There is some guides available to help developers and contributors:
+
+### 👥 Open Alliance
+The maintainers of Dashlog are also the creators behind projects like [TopCli](https://github.com/TopCli), [Dashlog](https://github.com/Dashlog), and many more (see [OpenAlly](https://github.com/OpenAlly)).
