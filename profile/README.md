@@ -1,6 +1,6 @@
 ## 👋 Welcome visitor
 
-We are building free open source tools to secure the **Node.js** & **JavaScript** ecosystem. Our biggest area of expertise is in **package and code analysis**.
+We are building free open source tools to secure the **Node.js** & **JavaScript** ecosystem. Our biggest area of expertise is in **package and code analysis** (SCA).
 
 We are mainly developers who like to build tools that bring you value for free ❤️. Our tools often provide a range of benefits and information such as:
 - Non opinionated metrics (On quality and maintainability).
@@ -45,4 +45,4 @@ Learn how you can contribute by reading our guide:
 Before contributing, please check and read our [Code of conduct](https://github.com/NodeSecure/Governance/blob/main/COC_POLICY.md). There is some guides available to help developers and contributors:
 
 ### 👥 Open Alliance
-The maintainers of Dashlog are also the creators behind projects like [TopCli](https://github.com/TopCli), [Dashlog](https://github.com/Dashlog), and many more (see [OpenAlly](https://github.com/OpenAlly)).
+The maintainers of NodeSecure are also the creators behind projects like [TopCli](https://github.com/TopCli), [Dashlog](https://github.com/Dashlog), and many more (see [OpenAlly](https://github.com/OpenAlly)).
