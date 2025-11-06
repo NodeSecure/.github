@@ -29,8 +29,7 @@ Learn how you can contribute by reading our guide:
 - [For french contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-fr.md)
 - [For english contributor](https://github.com/NodeSecure/Governance/blob/main/guides/contributor-en.md)
 
-<details>
-  <summary>Resources to learn more about the project or good security practices</summary>
+#### Resources to learn more about the project or good security practices
 
 - We frequently write articles about our different tools on [https://dev.to/nodesecure](https://dev.to/nodesecure).
 - [OpenSSF - Concise Guide for Evaluating Open Source Software 2023-01-03](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
@@ -38,8 +37,6 @@ Learn how you can contribute by reading our guide:
 - [Build a software bill of materials (SBOM) for open source supply chain security](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
 - [A curated list of awesome Node.js Security resources.](https://github.com/lirantal/awesome-nodejs-security)
 - [Collection of npm package manager Security Best Practices](https://github.com/lirantal/npm-security-best-practices)
-
-</details>
 
 #### Contribution Guidelines
 
