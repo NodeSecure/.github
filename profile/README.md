@@ -37,6 +37,7 @@ Learn how you can contribute by reading our guide:
 - [OpenSSF - Concise Guide for Developing More Secure Software 2023-01-03](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
 - [Build a software bill of materials (SBOM) for open source supply chain security](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
 - [A curated list of awesome Node.js Security resources.](https://github.com/lirantal/awesome-nodejs-security)
+- [Collection of npm package manager Security Best Practices](https://github.com/lirantal/npm-security-best-practices)
 
 </details>
 
